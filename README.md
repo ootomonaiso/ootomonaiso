@@ -1,10 +1,6 @@
 <!-- 背景を黒系にするテーマの統一（テーマ：onedark） -->
 <h1 align="center">Hi there 👋 I'm ootomonaiso</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F78166&center=true&vCenter=true&width=435&lines=工業高校生+%2F+STEM研究部;サーバー+%26+IoT好き;Python+%26+Nextcloud+%26+RaspberryPi" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🚀 About Me
