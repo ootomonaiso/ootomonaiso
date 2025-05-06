@@ -8,10 +8,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 高校でSTEM分野を中心に活動中
 - 🧠 興味分野: 自作サーバー / IoT / AR・VR / 自動化 / Sim開発
 - ⚡ よく使う技術: `Python`, `Node.js`, `React`, `Firebase`, `Arduino`
-- 📫 Contact: [Twitter](https://twitter.com/your_twitter) / Discord: `ootomonaiso#0000`
+- 📫 Contact: [Twitter](https://twitter.com/ootomonaiso) / Discord: `ootomonaiso`
 
 ---
 
