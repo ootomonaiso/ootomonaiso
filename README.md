@@ -8,8 +8,9 @@
 
   <br/>
 
+  <!-- Boot Sequence -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=6E40C9&center=true&vCenter=true&repeat=true&width=680&height=50&lines=%24+ssh+ootomonaiso%40future+--mode+build;%3E+Server+%2F+IoT+%2F+AR%C2%B7VR+%2F+Automation+%2F+Simulation;%3E+connected.+all+systems+operational." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2000&pause=600&color=6E40C9&center=true&vCenter=true&repeat=true&width=700&height=50&lines=%5BBOOT%5D+Loading+ootomonaiso.exe+...+OK;%5BSYS%5D+Modules%3A+Server+%7C+IoT+%7C+AR%C2%B7VR+%7C+Auto+%7C+Sim;%5BNET%5D+ping+github.com+...+1ms+...+connected;%5BWARN%5D+caffeine_level%3A+LOW+--+deploying+coffee.sh;%3E_+all+systems+operational.+welcome." alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -20,7 +21,8 @@
   <a href="https://github.com/ootomonaiso?tab=followers">
     <img src="https://img.shields.io/badge/FOLLOWERS-6-58a6ff?style=flat-square&logo=github&logoColor=c9d1d9&labelColor=0d1117" />
   </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ootomonaiso&style=flat-square&color=6e40c9&label=VIEWS&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=ootomonaiso&style=flat-square&color=6e40c9&label=VIEWS&labelColor=0d1117" />&nbsp;
+  <img src="https://img.shields.io/badge/COFFEE_TODAY-5_cups-e3b341?style=flat-square&logo=buymeacoffee&logoColor=0d1117&labelColor=0d1117" />
 
 </div>
 
@@ -29,37 +31,78 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     SYSTEM STATUS BOARD                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                    SYSTEM STATUS DASHBOARD                       ║
+╠══════════════════════════════════════════════════════════════════╣
+║  USER      : ootomonaiso                                        ║
+║  LOCATION  : Aichi, Japan                                       ║
+║  STATUS    : Online — probably debugging something               ║
+║  UPTIME    : since 2024 on GitHub                                ║
+║  MOOD      : ( ˘ω˘ )zzZ → ☕ → ( •̀ᴗ•́ )و → 💻 → repeat         ║
+╠══════════════════════════════════════════════════════════════════╣
+║  [■■■■■■■■■■■■■■■■■■░░]  89%  Motivation                       ║
+║  [■■■■■■■■■■■■■■■░░░░░]  75%  Coffee Level                     ║
+║  [■■■■■■■■■■■■■■■■■■■■]  MAX  Curiosity                        ║
+║  [■■■■░░░░░░░░░░░░░░░░]  20%  Sleep                            ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          ABOUT ME                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <table align="center">
 <tr><td valign="top" width="50%">
 
-<h3 align="center"><code>> ./about_me</code></h3>
+<h3 align="center"><code>> ./about_me --verbose</code></h3>
 
 ```js
-const ootomonaiso = {
-    location : "Aichi, Japan",
-    motto    : "どこかへ逃げない。それ、未来。",
+class Ootomonaiso extends Developer {
+    constructor() {
+        super();
+        this.name     = "ootomonaiso";
+        this.location = "Aichi, Japan";
+        this.motto    = "どこかへ逃げない。それ、未来。";
+    }
 
-    interests: [
-        "Self-hosted Servers",
-        "IoT / Smart Devices",
-        "AR / VR Development",
-        "Automation & Scripting",
-        "Simulation Engineering",
-    ],
+    get skills() {
+        return [
+            "Self-hosted Servers",
+            "IoT / Smart Devices",
+            "AR / VR Development",
+            "Automation & Scripting",
+            "Simulation Engineering",
+        ];
+    }
 
-    current: {
-        learning : "常に新しい技術を追求中",
-        building : "未来のインフラ",
-    },
-};
+    get dailyRoutine() {
+        return [
+            "☕ Coffee",
+            "💻 Code",
+            "🐛 Debug",
+            "🔍 Google",
+            "📋 Stack Overflow",
+            "🔁 Repeat",
+        ];
+    }
+
+    sleep() {
+        return null; // TODO: implement
+    }
+}
 ```
 
 </td><td valign="top" width="50%">
 
-<h3 align="center"><code>> ./tech_stack</code></h3>
+<h3 align="center"><code>> ./tech_stack --list</code></h3>
 
 <div align="center">
   <br/>
@@ -70,8 +113,55 @@ const ootomonaiso = {
   <br/><br/>
 </div>
 
+<br/>
+
+<h3 align="center"><code>> cat /etc/fun_facts</code></h3>
+
+```
+ Tabs > Spaces     (( fight me ))
+ Dark mode ONLY    (( always ))
+ git push --force  (( sometimes ))
+ rm -rf node_modules (( daily ))
+```
+
 </td></tr>
 </table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    HIDDEN EASTER EGGS                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<details>
+<summary><code>$ cat /dev/secret  ← click to decrypt</code></summary>
+<br/>
+
+```
+  ╭───────────────────────────────────────╮
+  │                                       │
+  │   このREADMEを最後まで見てくれて       │
+  │   ありがとう。                        │
+  │                                       │
+  │   あなたも最高のエンジニアです。      │
+  │                                       │
+  │           ＿＿＿                       │
+  │         ／     ＼                     │
+  │        │  ^ _ ^  │                    │
+  │         ＼＿＿＿／                     │
+  │           │   │                       │
+  │           └───┘                       │
+  │                                       │
+  ╰───────────────────────────────────────╯
+```
+
+<img src="https://img.shields.io/badge/YOU_FOUND_THE-SECRET-58a6ff?style=for-the-badge&labelColor=0d1117" />
+
+</details>
+
+</div>
 
 <br/>
 
@@ -150,6 +240,18 @@ const ootomonaiso = {
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       RANDOM JOKE                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center"><code>$ fortune | cowsay</code></h2>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=github_dark&hideBorder&bgColor=0d1117&borderColor=161b22&qColor=58a6ff&aColor=6e40c9" alt="dev joke" />
+</p>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          CONNECT                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -168,3 +270,31 @@ const ootomonaiso = {
 </p>
 
 <br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       QUOTE + FOOTER                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
+</p>
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   Thank you for visiting!                                │
+│                                                          │
+│   "Any fool can write code that a computer can           │
+│    understand. Good programmers write code that           │
+│    humans can understand."  — Martin Fowler              │
+│                                                          │
+│   Star a repo if you like what you see  ★                │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:58a6ff,30:6e40c9,60:1a1b27,100:0d1117&height=150&section=footer&reversal=true&stroke=6e40c9&strokeWidth=1" width="100%" />
