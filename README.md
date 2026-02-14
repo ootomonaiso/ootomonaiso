@@ -37,20 +37,20 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                    SYSTEM STATUS DASHBOARD                       ║
-╠══════════════════════════════════════════════════════════════════╣
-║  USER      : ootomonaiso                                        ║
-║  LOCATION  : Aichi, Japan                                       ║
-║  STATUS    : Online — probably debugging something               ║
-║  UPTIME    : since 2024 on GitHub                                ║
-║  MOOD      : ( ˘ω˘ )zzZ → ☕ → ( •̀ᴗ•́ )و → 💻 → repeat         ║
-╠══════════════════════════════════════════════════════════════════╣
-║  [■■■■■■■■■■■■■■■■■■░░]  89%  Motivation                       ║
-║  [■■■■■■■■■■■■■■■░░░░░]  75%  Coffee Level                     ║
-║  [■■■■■■■■■■■■■■■■■■■■]  MAX  Curiosity                        ║
-║  [■■■■░░░░░░░░░░░░░░░░]  20%  Sleep                            ║
-╚══════════════════════════════════════════════════════════════════╝
++------------------------------------------------------------------+
+|                   SYSTEM STATUS DASHBOARD                        |
++------------------------------------------------------------------+
+|  USER     : ootomonaiso                                          |
+|  LOCATION : Aichi, Japan                                         |
+|  STATUS   : Online -- probably debugging something               |
+|  UPTIME   : since 2024 on GitHub                                 |
+|  MOOD     : (-_-)zzZ -> coffee -> (^_^)b -> code -> repeat       |
++------------------------------------------------------------------+
+|  [####################....] 89%  Motivation                      |
+|  [################........] 75%  Coffee Level                    |
+|  [########################] MAX  Curiosity                       |
+|  [#####...................] 20%  Sleep                            |
++------------------------------------------------------------------+
 ```
 
 </div>
@@ -140,21 +140,21 @@ class Ootomonaiso extends Developer {
 <br/>
 
 ```
-  ╭───────────────────────────────────────╮
-  │                                       │
-  │   このREADMEを最後まで見てくれて       │
-  │   ありがとう。                        │
-  │                                       │
-  │   あなたも最高のエンジニアです。      │
-  │                                       │
-  │           ＿＿＿                       │
-  │         ／     ＼                     │
-  │        │  ^ _ ^  │                    │
-  │         ＼＿＿＿／                     │
-  │           │   │                       │
-  │           └───┘                       │
-  │                                       │
-  ╰───────────────────────────────────────╯
+  +---------------------------------------+
+  |                                       |
+  |  Thanks for scrolling this far!       |
+  |  You are an awesome engineer.         |
+  |                                       |
+  |            _____                      |
+  |           / ^ _ ^\                    |
+  |          |       |                    |
+  |           \_____/                     |
+  |             | |                       |
+  |             |_|                       |
+  |                                       |
+  |  -- ootomonaiso                       |
+  |                                       |
+  +---------------------------------------+
 ```
 
 <img src="https://img.shields.io/badge/YOU_FOUND_THE-SECRET-58a6ff?style=for-the-badge&labelColor=0d1117" />
@@ -172,8 +172,8 @@ class Ootomonaiso extends Developer {
 <h2 align="center"><code>$ cat /var/log/github_analytics</code></h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ootomonaiso&show_icons=true&hide_border=true&border_radius=8&icon_color=6e40c9&title_color=58a6ff&ring_color=6e40c9&text_color=8b949e&bg_color=0d1117&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ootomonaiso&layout=compact&hide_border=true&border_radius=8&title_color=58a6ff&text_color=8b949e&bg_color=0d1117&langs_count=8" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ootomonaiso&show_icons=true&hide_border=true&border_radius=8&icon_color=6e40c9&title_color=58a6ff&ring_color=6e40c9&text_color=8b949e&bg_color=0d1117&count_private=true" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ootomonaiso&layout=compact&hide_border=true&border_radius=8&title_color=58a6ff&text_color=8b949e&bg_color=0d1117&langs_count=8" height="180" />
 </p>
 
 <p align="center">
@@ -206,7 +206,7 @@ class Ootomonaiso extends Developer {
 <h2 align="center"><code>$ ls /achievements</code></h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ootomonaiso&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy-rust.vercel.app/?username=ootomonaiso&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
 </p>
 
 <br/>
@@ -282,17 +282,17 @@ class Ootomonaiso extends Developer {
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   Thank you for visiting!                                │
-│                                                          │
-│   "Any fool can write code that a computer can           │
-│    understand. Good programmers write code that           │
-│    humans can understand."  — Martin Fowler              │
-│                                                          │
-│   Star a repo if you like what you see  ★                │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
++----------------------------------------------------------+
+|                                                          |
+|   Thank you for visiting!                                |
+|                                                          |
+|   "Any fool can write code that a computer can           |
+|    understand. Good programmers write code that           |
+|    humans can understand."  -- Martin Fowler             |
+|                                                          |
+|   Star a repo if you like what you see  *                |
+|                                                          |
++----------------------------------------------------------+
 ```
 
 </div>
