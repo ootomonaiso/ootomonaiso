@@ -168,9 +168,3 @@ const ootomonaiso = {
 </p>
 
 <br/>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:58a6ff,30:6e40c9,60:1a1b27,100:0d1117&height=150&section=footer&reversal=true&stroke=6e40c9&strokeWidth=1" width="100%" />
