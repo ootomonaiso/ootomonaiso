@@ -1,43 +1,79 @@
 # ootomonaiso
 
-<div align="center">
-<strong>Full Stack Developer & Problem Solver</strong>
-
-[github.com/ootomonaiso](https://github.com/ootomonaiso) • [ganondorofu123@gmail.com](mailto:ganondorofu123@gmail.com)
-</div>
+> Full Stack Developer | IoT & Automation Enthusiast | Problem Solver
 
 ---
 
 ## About
 
-Passionate about clean architecture and scalable solutions. I focus on building elegant, maintainable code that solves real problems.
+I'm a developer passionate about building elegant solutions to complex problems. Focused on backend systems, modern frontend frameworks, and IoT automation.
 
-Interested in backend systems, modern frontend frameworks, and open source contribution.
-
----
-
-## Skills
-
-**Languages** — JavaScript • TypeScript • Python • Go • HTML • CSS  
-**Frameworks** — React • Node.js  
-**Tools & Platforms** — Docker • Git • VS Code
+**Location:** Aichi, Japan  
+**Motto:** どこかへ逃げない。それ、未来。
 
 ---
 
-## Featured Work
+## Core Interests
 
-Coming soon. Check out my repositories for current projects.
+- **Server & Infrastructure** — Self-hosted solutions, Docker, Linux
+- **IoT & Embedded** — Arduino, Raspberry Pi, Automation systems
+- **AR/VR & Simulation** — Emerging technologies exploration
+- **Web Development** — Full stack applications with React & Node.js
 
 ---
 
-## Statistics
+## Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ootomonaiso&theme=github_dark&show_icons=true&hide_border=true&hide_title=true)
+**Languages:** Python · TypeScript · JavaScript · Go · Bash  
+**Backend:** Node.js · Firebase · MySQL  
+**Frontend:** React · HTML5 · CSS3  
+**DevOps:** Docker · Nginx · Git · Linux  
+**Hardware:** Arduino · Raspberry Pi
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ootomonaiso&theme=github_dark&hide_border=true&layout=compact)
+---
+
+## Latest Activity
+
+```
+while (true) {
+  coffee();
+  code();
+  debug();
+  repeat();
+}
+```
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ootomonaiso&show_icons=true&hide_border=true&bg_color=0d1117&text_color=e6edf3&title_color=58a6ff&icon_color=a371f7)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ootomonaiso&layout=compact&hide_border=true&bg_color=0d1117&text_color=e6edf3&title_color=58a6ff)
+
+---
+
+## Achievements
+
+- **60+** Public Repositories
+- **6** Followers (and counting)
+- **Active Contributor** since 2024
+
+---
+
+## Connect
+
+| Platform | Link |
+|----------|------|
+| **GitHub** | [@ootomonaiso](https://github.com/ootomonaiso) |
+| **Email** | ganondorofu123@gmail.com |
 
 ---
 
 <div align="center">
-<p>Let's build something great</p>
+
+**Built with curiosity and a lot of coffee ☕**
+
+*Last updated: June 2026*
+
 </div>
