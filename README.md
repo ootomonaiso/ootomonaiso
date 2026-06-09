@@ -1,209 +1,148 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║           ootomonaiso  ·  GitHub Profile README              ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
-
-  <!-- ▸ HEADER ──────────────────────────────────────────────── -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:161b22,40:1a1040,65:6e40c9,85:a371f7,100:58a6ff&height=220&section=header&text=ootomonaiso&fontColor=e6edf3&fontSize=52&fontAlignY=32&desc=%E3%81%A9%E3%81%93%E3%81%8B%E3%81%B8%E9%80%83%E3%81%92%E3%81%AA%E3%81%84%E3%80%82%E3%81%9D%E3%82%8C%E3%80%81%E6%9C%AA%E6%9D%A5%E3%80%82&descSize=16&descAlignY=54&descColor=8b949e&animation=fadeIn" width="100%" />
-
-  <br/>
-
-  <!-- ▸ TYPING ANIMATION ───────────────────────────────────── -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=A371F7&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%F0%9F%8F%97%EF%B8%8F+Server+%C2%B7+IoT+%C2%B7+AR%2FVR+%C2%B7+Automation;%F0%9F%92%A1+Curiosity-driven+Engineer;%E2%98%95+Coffee+%E2%86%92+Code+%E2%86%92+Debug+%E2%86%92+Repeat" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  <!-- ▸ BADGES ──────────────────────────────────────────────── -->
-  <a href="https://github.com/ootomonaiso?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-60-a371f7?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=161b22" />
-  </a>
-  <img width="8" />
-  <a href="https://github.com/ootomonaiso?tab=followers">
-    <img src="https://img.shields.io/badge/Followers-6-58a6ff?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=161b22" />
-  </a>
-  <img width="8" />
-  <img src="https://komarev.com/ghpvc/?username=ootomonaiso&style=for-the-badge&color=6e40c9&label=Views&labelColor=161b22" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Since-2024-e3b341?style=for-the-badge&logo=githubsponsors&logoColor=e6edf3&labelColor=161b22" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:f093fb,75:4facfe,100:00f2fe&height=200&section=header&text=ootomonaiso&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=Curiosity-driven%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" width="100%" />
 </div>
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                         ABOUT ME                               -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+### 🚀 Building the Future, One Line at a Time
+
+<a href="https://github.com/ootomonaiso?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-blue?style=flat-square&logo=github" />
+</a>&nbsp;
+<a href="https://github.com/ootomonaiso?tab=followers">
+  <img src="https://img.shields.io/badge/Followers-blue?style=flat-square&logo=github" />
+</a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=ootomonaiso&style=flat-square&color=blue" />
+
 </div>
 
-<br/>
+---
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
-### &nbsp;&nbsp;`> whoami`
+## About Me
 
-```ts
-const ootomonaiso = {
-  location:  "📍 Aichi, Japan",
-  motto:     "どこかへ逃げない。それ、未来。",
-  interests: [
-    "🖥️ Self-hosted Servers",
-    "📡 IoT / Embedded",
-    "🥽 AR / VR",
-    "⚙️ Automation",
-    "🧪 Simulation",
-  ],
-  dailyLoop: () => {
-    while (true) {
-      coffee();
-      code();
-      debug();
-      // sleep();  // TODO: implement someday
-    }
+```typescript
+const whoami = {
+  location: "📍 Aichi, Japan",
+  passion: "🖥️ Systems × 🌐 IoT × 🎮 AR/VR × ⚙️ Automation",
+  philosophy: "どこかへ逃げない。それ、未来。",
+  
+  code: {
+    languages: ["Python", "TypeScript", "JavaScript"],
+    backends: ["Node.js", "Docker", "Linux"],
+    hardware: ["Arduino", "Raspberry Pi"],
+    deployment: ["Firebase", "Vercel", "Nginx"]
   },
+  
+  lifestyle: {
+    codeStyle: "Tabs > Spaces",
+    theme: "Dark Mode 🌙",
+    daily: "☕ → 💻 → 🐛 → ∞"
+  }
 };
 ```
 
-</td>
-<td valign="top" width="50%">
+</div>
 
-### &nbsp;&nbsp;`> tech --stack`
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-<br/>
 
-| | | | |
-|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python" width="44" /><br/><sub>Python</sub> | <img src="https://skillicons.dev/icons?i=nodejs" width="44" /><br/><sub>Node.js</sub> | <img src="https://skillicons.dev/icons?i=react" width="44" /><br/><sub>React</sub> | <img src="https://skillicons.dev/icons?i=ts" width="44" /><br/><sub>TypeScript</sub> |
-| <img src="https://skillicons.dev/icons?i=arduino" width="44" /><br/><sub>Arduino</sub> | <img src="https://skillicons.dev/icons?i=raspberrypi" width="44" /><br/><sub>Raspberry Pi</sub> | <img src="https://skillicons.dev/icons?i=firebase" width="44" /><br/><sub>Firebase</sub> | <img src="https://skillicons.dev/icons?i=vercel" width="44" /><br/><sub>Vercel</sub> |
-| <img src="https://skillicons.dev/icons?i=docker" width="44" /><br/><sub>Docker</sub> | <img src="https://skillicons.dev/icons?i=linux" width="44" /><br/><sub>Linux</sub> | <img src="https://skillicons.dev/icons?i=nginx" width="44" /><br/><sub>Nginx</sub> | <img src="https://skillicons.dev/icons?i=mysql" width="44" /><br/><sub>MySQL</sub> |
-| <img src="https://skillicons.dev/icons?i=git" width="44" /><br/><sub>Git</sub> | <img src="https://skillicons.dev/icons?i=vscode" width="44" /><br/><sub>VS Code</sub> | <img src="https://skillicons.dev/icons?i=bash" width="44" /><br/><sub>Bash</sub> | <img src="https://skillicons.dev/icons?i=github" width="44" /><br/><sub>GitHub</sub> |
+| **Languages** | **Web** | **Systems** |
+|:---:|:---:|:---:|
+| ![Python](https://skillicons.dev/icons?i=python) | ![React](https://skillicons.dev/icons?i=react) | ![Docker](https://skillicons.dev/icons?i=docker) |
+| ![TypeScript](https://skillicons.dev/icons?i=ts) | ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![Linux](https://skillicons.dev/icons?i=linux) |
+| ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![Firebase](https://skillicons.dev/icons?i=firebase) | ![Nginx](https://skillicons.dev/icons?i=nginx) |
+
+| **Hardware** | **Database** | **Tools** |
+|:---:|:---:|:---:|
+| ![Arduino](https://skillicons.dev/icons?i=arduino) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![Git](https://skillicons.dev/icons?i=git) |
+| ![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![VSCode](https://skillicons.dev/icons?i=vscode) |
+| ![Vercel](https://skillicons.dev/icons?i=vercel) | ![Bash](https://skillicons.dev/icons?i=bash) | ![GitHub](https://skillicons.dev/icons?i=github) |
 
 </div>
 
-</td>
-</tr>
-</table>
+---
 
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                       FUN FACTS BOX                            -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+## 📊 GitHub Analytics
 
 <div align="center">
 
-> **`💭 Fun Facts`**
->
-> `🌙 Dark Mode ONLY` &nbsp;·&nbsp; `⌨️ Tabs > Spaces` &nbsp;·&nbsp; `🔥 git push --force （たまに）` &nbsp;·&nbsp; `🗑️ rm -rf node_modules （日課）`
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ootomonaiso&show_icons=true&hide_border=true&border_radius=10&icon_color=667eea&title_color=764ba2&text_color=c5c5c5&bg_color=1a1a2e&count_private=true)
+
+![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ootomonaiso&layout=compact&hide_border=true&border_radius=10&title_color=764ba2&text_color=c5c5c5&bg_color=1a1a2e&langs_count=10)
 
 </div>
 
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                       GITHUB STATS                             -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ootomonaiso&show_icons=true&hide_border=true&border_radius=12&icon_color=a371f7&title_color=58a6ff&ring_color=a371f7&text_color=8b949e&bg_color=0d1117&count_private=true&card_width=480" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ootomonaiso&show_icons=true&hide_border=true&border_radius=12&icon_color=a371f7&title_color=58a6ff&ring_color=a371f7&text_color=8b949e&bg_color=0d1117&count_private=true&card_width=480" height="190" />
-  </picture>
-  <img width="10" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ootomonaiso&layout=compact&hide_border=true&border_radius=12&title_color=58a6ff&text_color=8b949e&bg_color=0d1117&langs_count=8&card_width=350" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ootomonaiso&layout=compact&hide_border=true&border_radius=12&title_color=58a6ff&text_color=8b949e&bg_color=0d1117&langs_count=8&card_width=350" height="190" />
-  </picture>
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=ootomonaiso&hide_border=true&border_radius=10&ring=667eea&fire=764ba2&currStreakLabel=f093fb&sideLabels=4facfe&currStreakNum=00f2fe&background=1a1a2e)
 
 </div>
 
-<br/>
+---
+
+## 🎯 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ootomonaiso&hide_border=true&border_radius=12&ring=A371F7&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=484f58&background=0D1117&stroke=21262d" height="190" />
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=ootomonaiso&bg_color=1a1a2e&color=c5c5c5&line=667eea&point=764ba2&area=true&area_color=f093fb&hide_border=true&radius=10&custom_title=Contribution%20Heatmap)
+
 </div>
 
-<br/>
+---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     PROFILE SUMMARY                            -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ootomonaiso&theme=github_dark" width="95%" />
+
+![Trophy](https://github-profile-trophy-rust.vercel.app/?username=ootomonaiso&theme=flat&no-frame=true&column=7&margin-w=10&margin-h=10)
+
 </div>
 
-<br/>
+---
+
+## 🎯 Fun Facts
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ootomonaiso&theme=github_dark" height="170" />
-  <img width="6" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ootomonaiso&theme=github_dark" height="170" />
-  <img width="6" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ootomonaiso&theme=github_dark&utcOffset=9" height="170" />
+
+> 🌙 Dark mode lover  
+> ⌨️ Team Tabs  
+> 🚀 git push --force (occasionally)  
+> 📦 rm -rf node_modules (daily ritual)
+
 </div>
 
-<br/>
+---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                         TROPHIES                               -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+## 🔗 Connect with Me
 
 <div align="center">
-  <img src="https://github-profile-trophy-rust.vercel.app/?username=ootomonaiso&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" />
+
+[![Twitter](https://img.shields.io/badge/Twitter-667eea?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ootomonaiso)
+[![Discord](https://img.shields.io/badge/Discord-764ba2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ootomonaiso)
+[![GitHub](https://img.shields.io/badge/GitHub-f093fb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ootomonaiso)
+[![Email](https://img.shields.io/badge/Email-4facfe?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganondorofu123@gmail.com)
+
 </div>
 
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                   CONTRIBUTION GRAPH                           -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ootomonaiso&bg_color=0d1117&color=8b949e&line=a371f7&point=58a6ff&area=true&area_color=6e40c9&hide_border=true&radius=12&custom_title=Contribution%20Graph" width="95%" />
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     SNAKE ANIMATION                            -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ootomonaiso/ootomonaiso/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ootomonaiso/ootomonaiso/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ootomonaiso/ootomonaiso/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    HIDDEN EASTER EGG                           -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<details>
-<summary>&nbsp;<code>🔒 cat /dev/secret</code>&nbsp;← ここをクリック</summary>
-<br/>
-
-<div align="center">
-
+  <details>
+    <summary><b>🔓 Secret Message Inside</b></summary>
+    <br/>
+    
 ```
-  ┌─────────────────────────────────────────┐
+  ╭─────────────────────────────────────────╮
   │                                         │
   │  ここまでスクロールしてくれて            │
-  │  ありがとう！                            │
+  │  ありがとう！🙏                          │
   │                                         │
   │  あなたは最高のエンジニアです 🎉        │
   │                                         │
@@ -213,55 +152,17 @@ const ootomonaiso = {
   │          |   |                           │
   │          し⌒Ｊ                           │
   │                                         │
-  │  — ootomonaiso                          │
+  │  Let's keep building great things!     │
+  │  — ootomonaiso 💜                       │
   │                                         │
-  └─────────────────────────────────────────┘
+  ╰─────────────────────────────────────────╯
 ```
 
-<img src="https://img.shields.io/badge/🎊_SECRET_UNLOCKED-a371f7?style=for-the-badge&labelColor=161b22" />
-
-</div>
-</details>
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                        CONNECT                                 -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-  <a href="https://twitter.com/ootomonaiso">
-    <img src="https://img.shields.io/badge/Twitter-161b22?style=for-the-badge&logo=x&logoColor=e6edf3" />
-  </a>
-  <img width="4" />
-  <a href="https://discord.com/users/ootomonaiso">
-    <img src="https://img.shields.io/badge/Discord-161b22?style=for-the-badge&logo=discord&logoColor=5865F2" />
-  </a>
-  <img width="4" />
-  <a href="https://github.com/ootomonaiso">
-    <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=e6edf3" />
-  </a>
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    QUOTE + FOOTER                              -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
+  </details>
 </div>
 
 <br/>
 
 <div align="center">
-  <kbd>  ⭐ Star a repo if you like what you see!  </kbd>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,25:4facfe,50:f093fb,75:764ba2,100:667eea&height=120&section=footer&reversal=true" width="100%" />
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,25:a371f7,50:6e40c9,75:1a1040,100:0d1117&height=120&section=footer&reversal=true" width="100%" />
