@@ -133,33 +133,37 @@ const whoami = {
 
 ---
 
-<div align="center">
-  <details>
-    <summary><b>🔓 Secret Message Inside</b></summary>
-    <br/>
-    
-```
-  ╭─────────────────────────────────────────╮
-  │                                         │
-  │  ここまでスクロールしてくれて            │
-  │  ありがとう！🙏                          │
-  │                                         │
-  │  あなたは最高のエンジニアです 🎉        │
-  │                                         │
-  │           ∧＿∧                           │
-  │          (  ・ω・)  ＜ やるじゃん！      │
-  │         ⊂     ⊃                         │
-  │          |   |                           │
-  │          し⌒Ｊ                           │
-  │                                         │
-  │  Let's keep building great things!     │
-  │  — ootomonaiso 💜                       │
-  │                                         │
-  ╰─────────────────────────────────────────╯
-```
+<details>
+  <summary><b style="color: #4facfe; font-size: 14px;">▶ .secret</b></summary>
 
-  </details>
-</div>
+  <div style="background-color: #1a1a2e; border-radius: 8px; padding: 16px; margin: 12px 0; font-family: 'Fira Code', monospace; color: #c5c5c5; border: 1px solid #2d2d44;">
+    
+  <div style="display: flex; gap: 16px;">
+    <div style="width: 200px; border-right: 1px solid #2d2d44; padding-right: 16px; color: #858585; font-size: 12px;">
+      <div style="margin-bottom: 12px;">
+        <span style="color: #4facfe;">🔓</span> secrets.js
+      </div>
+      <div style="margin-bottom: 12px; color: #858585;">
+        <span style="color: #764ba2;">🔍</span> messages.md
+      </div>
+      <div style="color: #858585;">
+        <span style="color: #f093fb;">💬</span> thanks.txt
+      </div>
+    </div>
+    
+    <div style="flex: 1;">
+      <div style="color: #858585; font-size: 12px; margin-bottom: 8px;">secrets.js</div>
+      <pre style="margin: 0; color: #c5c5c5; font-size: 11px; line-height: 1.5;"><span style="color: #764ba2;">const</span> <span style="color: #4facfe;">secret</span> <span style="color: #f093fb;">=</span> {
+  <span style="color: #c5c5c5;">thanks</span><span style="color: #f093fb;">:</span> <span style="color: #a8d14f;">"ここまでスクロールしてくれて ありがとう🙏"</span>,
+  <span style="color: #c5c5c5;">message</span><span style="color: #f093fb;">:</span> <span style="color: #a8d14f;">"あなたは最高のエンジニアです 🎉"</span>,
+  <span style="color: #c5c5c5;">let</span><span style="color: #f093fb;">:</span> <span style="color: #a8d14f;">"Together we build amazing things"</span>,
+  <span style="color: #c5c5c5;">from</span><span style="color: #f093fb;">:</span> <span style="color: #a8d14f;">"ootomonaiso"</span> <span style="color: #764ba2;">💜</span>
+};</pre>
+    </div>
+  </div>
+
+  </div>
+</details>
 
 <br/>
 
